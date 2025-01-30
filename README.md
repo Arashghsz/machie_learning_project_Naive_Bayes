@@ -32,7 +32,7 @@ The dataset used in this project is located on Google Drive. Update the `dsPath`
 5. **Model Evaluation**: Evaluate the classifier using confusion matrix and accuracy score.
 
 ## Usage
-
+Run in google colab (**Reccommender**)
 Run the `income_classification_with_naive_bayes.py` script to execute the project steps.
 
 ## Results
